@@ -1,27 +1,23 @@
-## First Name Last Name
+## Juan Sabogal (Jsabogal1358)
 
-### Term Year 
+### Summer 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
-
-- Course 2
-
-- Course 3
-
-- Course 4
+- Intro to Data Science [COP2073]
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- The Stock Market
 
-- Thing 2
+- Technology
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Running
+
+- Basketball
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/07/07
